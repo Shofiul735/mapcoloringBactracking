@@ -1,0 +1,16 @@
+.region{
+	cursor: pointer;
+	transition: fill 0.5s;
+}
+.red{
+	fill:red;
+}
+.green{
+	fill:green;
+}
+.blue{
+	fill:blue;
+}
+.yellow{
+	fill:yellow;
+}
